@@ -1,0 +1,2 @@
+avrdude -p atmega32u4 -P /dev/tty.usbmodem24141 -c avr109 -U flash:w:atreus62_rp-taki.hex
+
